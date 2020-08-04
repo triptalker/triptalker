@@ -86,7 +86,9 @@ body {
 @media (min-width: 768px) {
   .masthead-brand {
     float: left;
+    text-align: center;
   }
+  
   .nav-masthead {
     float: right;
   }
@@ -95,6 +97,12 @@ body {
 .contenedor {
   position: fixed
 }
+
+.juan-brand {
+  float: none;
+  text-align: center;
+}
+
 
 /*
  * Cover
