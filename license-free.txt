@@ -3,7 +3,6 @@ v1.0.2
 Release Date: 10th Feb, 2017
 Update Date: 5th Oct, 2017
 
-A Free Coming Soon Bootstrap 4 Template by TemplateFlip.com.
 
 Live Demo - https://templateflip.com/demo/?template=coming-soon-bootstrap-template
 Download - https://templateflip.com/templates/coming-soon-bootstrap-template/
@@ -29,4 +28,3 @@ For any further queries regarding terms of use and licensing feel free to contac
 
 *************
 
-Check out our Website templates at https://templateflip.com/templates/
